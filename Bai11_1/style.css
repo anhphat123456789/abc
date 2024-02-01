@@ -1,0 +1,16 @@
+table{
+    border-radius: collapse;
+    border-color: greenyellow;
+    text-align: center;
+}
+.title{
+    background-color: green;
+    color: white;
+
+}
+.title2{
+    background-color: greenyellow;
+}
+.title3{
+    color: red;
+}
